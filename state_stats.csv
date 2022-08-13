@@ -1,4 +1,4 @@
-﻿ABBR,STATE,CITY,REGION,SIZE,POPULATION,POP_RUR,MUNICIPAL,GNP,LIFE
+﻿abbr,state,city,region,size,pop,pop_rur,municipal,gnp,life
 AC,Acre,Rio Branco,North,"152,581","664,000",69.6/30.4,24,"R$5,413",71.1
 AL,Alagoas,Maceió,Northeast,"27,767","3,557,000",67.4/32.6,102,"R$3,876",65.4
 AP,Amapá,Macapá,North,"142,814","619,000",93.7/6.3,16,"R$6,796",70.1
